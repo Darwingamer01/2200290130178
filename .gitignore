@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file (holds sensitive data)
+.env
+
+# MacOS system files (specific to Mac)
+.DS_Store
+
+# Build output directories
+build/
+dist/
+
+# Optional: logs (if you have log files generated)
+*.log
